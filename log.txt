@@ -1,0 +1,35 @@
+commit 4a6b5e06ac1d84f36bd7135922255eb7a0aeed4f
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 19:03:31 2024 +0530
+
+    last commit
+
+commit 3e075cabcdf10be49d01b61235e473f591db9af6
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 18:33:59 2024 +0530
+
+    git ignore 2nd
+
+commit 8d79cc7c5627828081a25609b5552b4248d137fc
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 18:33:23 2024 +0530
+
+    git ignore 1st
+
+commit b579c27aa55bc8297d2b9d2dc028d927740c31a2
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 18:10:05 2024 +0530
+
+    third commit after modification of txt and html file
+
+commit 80259ff017338015c8b7adf241dca04ecca8413a
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 18:07:50 2024 +0530
+
+    second commit after modification of c file
+
+commit 7930c669bda096459404441b8bd874459602822f
+Author: Aanika <dhamijaaanika@gmail.com>
+Date:   Tue Mar 5 18:06:00 2024 +0530
+
+    first commit
